@@ -1,6 +1,4 @@
 {
-  "test12": "__STRING_NOT_TRANSLATED__",
-  "test12_plural": "__STRING_NOT_TRANSLATED__",
-  "test113": "__STRING_NOT_TRANSLATED__",
-  "test113_plural": "__STRING_NOT_TRANSLATED__"
+  "test": "__STRING_NOT_TRANSLATED__",
+  "test_plural": "__STRING_NOT_TRANSLATED__"
 }
