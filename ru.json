@@ -1,14 +1,16 @@
 {
-  "translation": {
-    "enter": "войти"
-  },
-  "car_0": "__STRING_NOT_TRANSLATED__",
-  "car_1": "__STRING_NOT_TRANSLATED__",
-  "car_2": "__STRING_NOT_TRANSLATED__",
-  "car_blue_0": "__STRING_NOT_TRANSLATED__",
-  "car_blue_1": "__STRING_NOT_TRANSLATED__",
-  "car_blue_2": "__STRING_NOT_TRANSLATED__",
-  "app.name": "__STRING_NOT_TRANSLATED__",
-  "все курсы": "__STRING_NOT_TRANSLATED__",
-  "все fff": "__STRING_NOT_TRANSLATED__"
+    "translation": {
+        "enter": "войти"
+    },
+    "car_0": "машина",
+    "car_1": "__STRING_NOT_TRANSLATED__",
+    "car_2": "__STRING_NOT_TRANSLATED__",
+    "car_blue_0": "__STRING_NOT_TRANSLATED__",
+    "car_blue_1": "__STRING_NOT_TRANSLATED__",
+    "car_blue_2": "__STRING_NOT_TRANSLATED__",
+    "app": {
+        "name": "__STRING_NOT_TRANSLATED__"
+    },
+    "все курсы": "__STRING_NOT_TRANSLATED__",
+    "все fff": "__STRING_NOT_TRANSLATED__"
 }
