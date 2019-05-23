@@ -1,16 +1,8 @@
 {
-    "translation": {
-        "enter": "войти"
-    },
-    "car_0": "машина",
-    "car_1": "тачила",
-    "car_2": "тачуни",
-    "car_blue_0": "__STRING_NOT_TRANSLATED__",
-    "car_blue_1": "__STRING_NOT_TRANSLATED__",
-    "car_blue_2": "__STRING_NOT_TRANSLATED__",
-    "app": {
-        "name": "__STRING_NOT_TRANSLATED__"
-    },
-    "все курсы": "__STRING_NOT_TRANSLATED__",
-    "все fff": "__STRING_NOT_TRANSLATED__"
+  "test12_0": "тест",
+  "test12_1": "теста",
+  "test12_2": "тестов",
+  "test113_0": "__STRING_NOT_TRANSLATED__",
+  "test113_1": "__STRING_NOT_TRANSLATED__",
+  "test113_2": "__STRING_NOT_TRANSLATED__"
 }
