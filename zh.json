@@ -1,4 +1,29 @@
 {
-    "test": "屁股",
-    "test_plural": "__STRING_NOT_TRANSLATED__"
+  "auth": {
+    "almost_done_header": "__STRING_NOT_TRANSLATED__",
+    "almost_done_text": "__STRING_NOT_TRANSLATED__",
+    "teacher_registration": "__STRING_NOT_TRANSLATED__"
+  },
+  "label": {
+    "name": "__STRING_NOT_TRANSLATED__",
+    "surname": "__STRING_NOT_TRANSLATED__",
+    "login": "__STRING_NOT_TRANSLATED__",
+    "email": "__STRING_NOT_TRANSLATED__",
+    "password": "__STRING_NOT_TRANSLATED__"
+  },
+  "button": {
+    "register": "__STRING_NOT_TRANSLATED__"
+  },
+  "validation": {
+    "enter_name": "__STRING_NOT_TRANSLATED__",
+    "enter_surname": "__STRING_NOT_TRANSLATED__",
+    "enter_login": "__STRING_NOT_TRANSLATED__",
+    "enter_email": "__STRING_NOT_TRANSLATED__",
+    "enter_password": "__STRING_NOT_TRANSLATED__",
+    "enter_accept": "__STRING_NOT_TRANSLATED__"
+  },
+  "link": {
+    "accept_personal": "Принять <2>условия обработки персональных данных</2>"
+  },
+  "test_0": "__STRING_NOT_TRANSLATED__"
 }
